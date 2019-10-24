@@ -16,9 +16,9 @@ export default function Footer() {
         })}
       </ul>
       <ul className="copyright">
-        <li>&copy; Spectral</li>
+        <li>&copy; 2019</li>
         <li>
-          Design: <a href="http://html5up.net">HTML5 UP</a>
+          Powered by: <a href="https://soberdash.com">soberdash.com</a>
         </li>
       </ul>
     </footer>
